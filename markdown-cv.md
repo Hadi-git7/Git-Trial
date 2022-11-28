@@ -16,4 +16,4 @@ Full stack web-developer at Codi
     * Greet costumers and provide them with informations in response to their queries.
     * Contacted existing costumers to provide them information about new deals and offers.
     * Serviced incoming calls for information bu following company protocol.
-    * Provided information to clients regarding chosen products and demonstarted features.
+    
